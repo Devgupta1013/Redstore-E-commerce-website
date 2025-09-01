@@ -28,11 +28,6 @@ This project is a **responsive eCommerce website** built with **HTML, CSS, and J
 
 ---
 
-## 📷 Preview  
-(Add screenshots of your RedStore project here)  
-
----
-
 ## 🔧 How to Use  
 1. Clone this repository:  
    ```bash
